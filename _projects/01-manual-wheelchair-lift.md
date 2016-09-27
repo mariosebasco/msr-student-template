@@ -1,8 +1,8 @@
 ---
 layout: project
-title: Project 8
-date: September 29, 2014
-image: http://unsplash.it/400?random
+title: Project 2
+date: September 23, 2014
+imageMain: http://unsplash.it/400/800?random
 ---
 
 ## Overview

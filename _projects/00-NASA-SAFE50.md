@@ -2,7 +2,8 @@
 layout: project
 title: NASA SAFE50
 date: June - August, 2015
-image: /msr-student-template/public/images/NASA.png
+imageMain: /msr-student-template/public/images/NASA.png
+imagePage: /msr-student-template/public/images/example.png
 permalink: "project-3.html"
 ---
 

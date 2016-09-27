@@ -2,7 +2,7 @@
 layout: about
 path: /about
 url: index.html
-image: http://unsplash.it/400?random
+image: /msr-student-template/public/images/mario.jpg
 ---
 
 ## Overview

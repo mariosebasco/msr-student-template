@@ -2,7 +2,7 @@
 layout: project
 title: Project 2
 date: September 23, 2014
-imageMain: http://unsplash.it/400/800?random
+imageMain: /msr-student-template/public/images/liftFinalUp.jpg
 ---
 
 ## Overview
